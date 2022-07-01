@@ -2,10 +2,10 @@
     "mysql": {
         "banco-de-dados": "petshop",
         "usuario": "root",
-        "senha": "123456",
-        "host": "127.0.0.1"
+        "senha": "[i%*6{=]>_tKRd*`",
+        "host": "34.135.80.244"
     },
     "api": {
-        "porta": 3000
+        "porta": 80
     }
 }
